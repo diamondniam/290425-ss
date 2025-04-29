@@ -16,7 +16,7 @@
 
     <div style="margin-top: 20px">
       <p>Accounts:</p>
-      {{ accounts }}
+      {{ accounts.entries }}
     </div>
   </div>
 </template>
